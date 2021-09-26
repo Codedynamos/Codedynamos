@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Codedynamos 
-- 👀 I’m interested in progrssive learning
+- 👀 I’m interested in progressive learning
 - 🌱 I’m currently learning to be better
 - 💞️ I’m looking to collaborate on large scalable systems
 - 📫 How to reach me Gmail: codedynamos@gmail.com
